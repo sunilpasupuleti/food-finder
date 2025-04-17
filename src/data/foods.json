@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "image": "https://img.freepik.com/free-photo/top-view-delicious-pizza-with-fresh-cheese_23-2150096953.jpg?t=st=1744840422~exp=1744844022~hmac=77b4715cb8712403391a2bb0b870dfe0ee066358dcba947a5f97b7494d8223b3&w=2000",
+    "category": "Italian",
+    "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil."
+  },
+  {
+    "id": 2,
+    "name": "Butter Chicken",
+    "image": "https://img.freepik.com/free-photo/chicken-red-curry-black-cup_1150-23928.jpg?t=st=1744840446~exp=1744844046~hmac=a52ded5028f29386fd7162f375279b4607ba394b5d0c0795c9103fdcad5a0056&w=2000",
+    "category": "Indian",
+    "description": "Tender chicken in a rich, creamy spiced tomato sauce."
+  },
+  {
+    "id": 3,
+    "name": "Sushi Platter",
+    "image": "https://img.freepik.com/free-photo/various-sushi-rolls-plate_140725-4318.jpg?t=st=1744840465~exp=1744844065~hmac=6e630bb4e05a7eeb68376372976ca3e06c7aadaf3a09db29110d91ec02d9f13e&w=1800",
+    "category": "Japanese",
+    "description": "Variety of sushi rolls with fish, veggies, and rice."
+  }
+]
